@@ -1,3 +1,5 @@
 # perceptronNN-inclusiveOR
 
-Neural network following inclusive OR rules
+Simple neural network following inclusive OR rules
+
+True = 1, False = 0
